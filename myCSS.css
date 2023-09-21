@@ -5,7 +5,7 @@ body {
      background-color: #FFFFFF;
      margin: 0;
      padding: 0;
-     color: #FFC3DB;
+     color: #FBC3DB;
 }
 
 a:link {
@@ -52,7 +52,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .footer {
-	background: #F1E4FE;
+	background: #FFFAE6;
 	margin: 0px;
 	float: left;
 	width: 100%;
