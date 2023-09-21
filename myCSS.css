@@ -7,14 +7,14 @@ body {
      background-color: #FFFFFF;
      margin: 0;
      padding: 0;
-     color: #000;
+     color: ##FFC3DB;
 }
 
 a:link {
-     color: #000000;
+     color: #FFE2ED;
 }
 a:visited {
-     color: #000;
+     color: ##FFFAE6;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
